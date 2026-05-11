@@ -28,7 +28,6 @@ Actualmente sigo fortaleciendo mis habilidades para convertirme en un desarrolla
 - Arquitectura de software
 - Buenas prácticas de desarrollo
 - Diseño UI/UX
-- Inteligencia Artificial aplicada
 
 ---
 
