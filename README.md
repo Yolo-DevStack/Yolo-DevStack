@@ -35,7 +35,9 @@ Actualmente sigo fortaleciendo mis habilidades para convertirme en un desarrolla
 ## 📫 Contacto
 
 📧 yolot562@gmail.com  
+
 💼 LinkedIn: proximamente... 
+
 🌐 Portafolio: Próximamente...
 
 ---
